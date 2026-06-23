@@ -1,0 +1,39 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Test Results
+TestResults/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema Operacional
+Thumbs.db
+Desktop.ini
+.DS_Store################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Logica de programacao/BasicTypes/BasicTypes/BasicTypes.csproj

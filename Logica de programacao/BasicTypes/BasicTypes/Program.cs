@@ -1,5 +1,7 @@
-﻿using System;
+﻿using BasicTypes;
+using System;
 using System.Globalization;
+
 
 namespace Project
 {
@@ -7,7 +9,7 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            
+
             bool fristType = false;
             char gender = 'F';
             char letter = '\u0041';
@@ -45,14 +47,14 @@ namespace Project
             double measure = 53.234567;
 
             Console.WriteLine("Produtos: ");
-            Console.WriteLine("{0}, cujo o preço é ${1}",product1, price);
+            Console.WriteLine("{0}, cujo o preço é ${1}", product1, price);
             Console.WriteLine("{0}, cujo o preço é ${1}", product2, price2);
 
             Console.WriteLine("Registro: {0} anos de idade, código {1} e gênero: {2}", age, code, gender1);
 
             Console.WriteLine("A medida com oito casas decimais: {0:F8}", measure);
             Console.WriteLine("Arredondando para (três casas decimais): {0:F3}", measure);
-            Console.WriteLine("Separando decimal invariant culture: " + measure.ToString("F3",CultureInfo.InvariantCulture));
+            Console.WriteLine("Separando decimal invariant culture: " + measure.ToString("F3", CultureInfo.InvariantCulture));
 
 
             int a = 5;
@@ -85,16 +87,76 @@ namespace Project
 
             //float result = ((ListNumber[0] * ListNumber[1]) - (ListNumber[2] * ListNumber[3]));
 
-            float numberF = float.Parse(Console.ReadLine());
-            float timeWork = float.Parse(Console.ReadLine());
-            float timePrice = float.Parse(Console.ReadLine());
-            Console.WriteLine(numberF);
-            float result = timePrice * timeWork;
-            Console.WriteLine("{0:2F}",result);
+            //float numberF = float.Parse(Console.ReadLine());
+            //float timeWork = float.Parse(Console.ReadLine());
+            //float timePrice = float.Parse(Console.ReadLine());
+            //Console.WriteLine(numberF);
+            //float result = timePrice * timeWork;
+            //Console.WriteLine("{0:2F}",result);
 
+            //if (number2 < 0)
+            //{
+            //    Console.WriteLine("Negativo");
+            //} else
+            //{
+            //    Console.WriteLine("Positivo");
+            //}
 
+            //int number2 = int.Parse(Console.ReadLine());
+            //int number3 = int.Parse(Console.ReadLine());
 
+            //int mult = number2 % number3;
 
+            //if (mult == 0)
+            //{
+            //    Console.WriteLine("São multiplos");
+            //} else
+            //{
+            //    Console.WriteLine("Não são multiplos");
+            //}    
+
+            //Pessoa x, y;
+            //x = new Pessoa();
+            //y = new Pessoa();
+
+            //Console.WriteLine("Digite o nome");
+            //x.person1 = Console.ReadLine();
+
+            //Console.WriteLine("Digite a idade");
+            //x.age1 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Digite o nome");
+            //y.person1 = Console.ReadLine();
+
+            //Console.WriteLine("Digite a idade");
+            //y.age1 = int.Parse(Console.ReadLine());
+
+            //if (x.age1 > y.age1)
+            //{
+            //    Console.WriteLine("{0} é mais velho", x.age1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("{0} é mais velho", y.age1);
+            //}
+
+            //CalSalario x, y;
+            //x = new CalSalario();
+            //y = new CalSalario();
+
+            //Console.WriteLine("Digite o nome");
+            //x.person1 = Console.ReadLine();
+            //Console.WriteLine("Digite a idade");
+            //x.salary = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Digite o nome");
+            //y.person1 = Console.ReadLine();
+            //Console.WriteLine("Digite a idade");
+            //y.salary = int.Parse(Console.ReadLine());
+
+            //int medium = (y.salary + x.salary) / 2;
+            //Console.WriteLine(medium);
+            
         }
     }
 }

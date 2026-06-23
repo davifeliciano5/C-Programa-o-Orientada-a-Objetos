@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\basictypes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|solutionrelative:basictypes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\basictypes\\basictypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|solutionrelative:basictypes\\basictypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\basictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|solutionrelative:basictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\basictypes\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|solutionrelative:basictypes\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Program.cs",
               "RelativeDocumentMoniker": "BasicTypes\\Program.cs",
               "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Program.cs",
               "RelativeToolTip": "BasicTypes\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowHEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-21T18:03:39.402Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\.gitignore",
-              "RelativeDocumentMoniker": "BasicTypes\\.gitignore",
-              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\.gitignore",
-              "RelativeToolTip": "BasicTypes\\.gitignore",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-22T17:08:13.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasicTypes",
-              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\BasicTypes.csproj",
-              "RelativeDocumentMoniker": "BasicTypes\\BasicTypes.csproj",
-              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\BasicTypes.csproj",
-              "RelativeToolTip": "BasicTypes\\BasicTypes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-22T17:07:20.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exercise1.cs",
-              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Exercise1.cs",
-              "RelativeDocumentMoniker": "BasicTypes\\Exercise1.cs",
-              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Exercise1.cs",
-              "RelativeToolTip": "BasicTypes\\Exercise1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T13:00:00.112Z",
               "EditorCaption": ""
             }
           ]
