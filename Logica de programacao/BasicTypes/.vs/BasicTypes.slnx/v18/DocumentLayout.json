@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\basictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03878F7-202E-539B-673C-196A9D87B060}|BasicTypes\\BasicTypes.csproj|solutionrelative:basictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CF2794F-C705-4CBD-B558-B9DAD4AFF685}|LISTA\\LISTA.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF2794F-C705-4CBD-B558-B9DAD4AFF685}|LISTA\\LISTA.csproj|solutionrelative:lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF2794F-C705-4CBD-B558-B9DAD4AFF685}|LISTA\\LISTA.csproj|c:\\users\\davi\\documents\\github\\c# programa\u00E7\u00E3o orientada a objetos\\logica de programacao\\basictypes\\lista\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF2794F-C705-4CBD-B558-B9DAD4AFF685}|LISTA\\LISTA.csproj|solutionrelative:lista\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\LISTA\\Employee.cs",
+              "RelativeDocumentMoniker": "LISTA\\Employee.cs",
+              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\LISTA\\Employee.cs",
+              "RelativeToolTip": "LISTA\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:45:07.225Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Program.cs",
-              "RelativeDocumentMoniker": "BasicTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\BasicTypes\\Program.cs",
-              "RelativeToolTip": "BasicTypes\\Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAowHEAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\LISTA\\Program.cs",
+              "RelativeDocumentMoniker": "LISTA\\Program.cs",
+              "ToolTip": "C:\\Users\\davi\\Documents\\GitHub\\C# Programa\u00E7\u00E3o Orientada a Objetos\\Logica de programacao\\BasicTypes\\LISTA\\Program.cs",
+              "RelativeToolTip": "LISTA\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T18:03:39.402Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-06-25T19:43:32.868Z",
               "EditorCaption": ""
             }
           ]

@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="Arrays/Arrays.csproj" Id="9c8979d0-535d-4631-9a3b-9380c48d6085" />
   <Project Path="BasicTypes/BasicTypes.csproj" />
+  <Project Path="EncapsulamentoBanco/EncapsulamentoBanco.csproj" Id="151c1bb1-c83b-428a-8d91-52d91c17c22f" />
+  <Project Path="LISTA/LISTA.csproj" Id="1cf2794f-c705-4cbd-b558-b9dad4aff685" />
 </Solution>
