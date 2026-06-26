@@ -48,4 +48,8 @@ double resultado = Calculadora.Somar(5, 10);
 
 **Precisa guardar e isolar dados? ➡️ Use `new` (Instância).**
 
+**significa que um membro pertence à classe e não a uma instância da classe. Por isso, ele pode ser acessado sem criar um objeto com new.
+Diferente dos membros de instância, que cada objeto possui sua própria cópia, os membros static possuem uma única cópia compartilhada por todos os objetos da classe durante a execução da aplicação.
+Utilizamos static quando o comportamento ou dado não depende do estado de um objeto específico.**
+
 **É só uma fórmula matemática ou função utilitária? ➡️ Use `static`.**
